@@ -1,7 +1,4 @@
----
-title: "Codebook"
-output: html_document
----
+# Codebook
 
 This codebook describes the data contained in the file "Coursera_project.txt". The data is a tidy, summarised version of the "Human Activity Recognition Using Smartphones Data Set" available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. The data cleaning was performed using RStudio, running in Windows 7 with R version 3.1.1.
 
